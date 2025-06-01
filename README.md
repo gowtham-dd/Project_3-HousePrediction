@@ -123,13 +123,6 @@ plt.show()
 
 ---
 
-## 🧑‍💻 Author
-
-*This project was completed as part of a data analysis task using Python and publicly available datasets.*
-
----
-```
-
 ---
 
 Would you like me to include an optional section on model training or time-series forecasting if you're planning to continue this analysis?
